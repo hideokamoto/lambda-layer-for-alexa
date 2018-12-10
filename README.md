@@ -12,6 +12,4 @@ $ sls deploy
 
 ## Getting Started (SAM)
 
-```
-$ cd sam
-```
+WIP

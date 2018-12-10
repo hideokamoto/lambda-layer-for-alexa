@@ -2,3 +2,4 @@
 node_modules
 jspm_packages
 .envrc
+template-output.yml
